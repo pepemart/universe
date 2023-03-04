@@ -1,0 +1,32 @@
+[ 
+{ "package": "tidyverse",
+       "url:" "https://github.com/tidyverse/tidyverse",
+       },
+    {"package": "easystat",
+     "url:" "https://easystats.github.io/easystats",
+     },
+    {"package": "eurostat",
+     "url:" "https://github.com/rOpenGov/eurostat",
+     },
+      {"package": "expss",
+     "url:" "https://gdemin.github.io/expss/",
+     },
+      {"package": "ggplot2",
+     "url:" "https://github.com/tidyverse/ggplot2",
+     },
+       {"package": "ggridges",
+     "url:" "https://wilkelab.org/ggridges/",
+     },
+       {"package": "ggrepel",
+     "url:" "https://github.com/slowkow/ggrepel",
+     },
+     {"package": "ggally",
+     "url:" "https://github.com/ggobi/ggally",
+     },
+     {"package": "intsvy",
+     "url:" " https://github.com/eldafani/intsvy",
+     }
+     ]
+     
+    
+     
